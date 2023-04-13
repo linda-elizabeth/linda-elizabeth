@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @linda-elizabeth
 - 👀 Interested in web development and AI
-- 🌱 Currently learning web technologies such as React and Flask
 - 📫 You can reach me at lindaliz5995@gmail.com
 
 <!---
