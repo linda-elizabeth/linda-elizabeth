@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @linda-elizabeth
-- 👀 Interested in web development and AI
+- 👀 Interested in test automation and AI
 - 📫 You can reach me at lindaliz5995@gmail.com
 
 <!---
